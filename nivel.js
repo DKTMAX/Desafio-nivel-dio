@@ -24,6 +24,6 @@ function verificarNivel(xpHeroi) {
 }
 
 verificarNivel(xpHeroi);
-} 
+
 
 
